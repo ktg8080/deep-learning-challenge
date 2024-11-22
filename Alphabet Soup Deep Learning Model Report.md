@@ -42,9 +42,9 @@ The goal of this analysis was to create and evaluate a deep learning model that 
 
 The deep learning model achieved reasonable accuracy (73%) and was able to predict funding success with moderate effectiveness. However, it did not fully meet the performance target, suggesting that this type of problem may be better suited to other models.
 
-![Training Accuracy](images/training_accuracy.png)
+![Training Accuracy](Images/training_accuracy.png)
 
-![Training Loss](images/training_loss.png)
+![Training Loss](Images/training_loss.png)
 
 
 
