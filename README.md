@@ -33,9 +33,13 @@ The goal of this project was to build and evaluate a deep learning model to pred
 ## Visualizations
 
 	1.	Training Accuracy and Loss:
-	•	Accuracy steadily improved during training (~73%), while loss decreased.
-	2.	Confusion Matrix:
-	•	The model performed well on the majority class (0) but struggled slightly with the minority class (1).
+		• Accuracy steadily improved during training (~73%), while loss decreased.
+
+  		![Training Accuracy](Images/traning_accuracy.png)
+    
+	2.	Training Loss:
+		• The training loss steadily decreased over time, indicating that the model was learning effectively. However, there were 		diminishing improvements after approximately 60 epochs, which suggests that the model had converged.
+  		![Training Loss](Images/training_loss.png)
 
  ## Recommendation
 
