@@ -35,12 +35,12 @@ The goal of this project was to build and evaluate a deep learning model to pred
 	1.	Training Accuracy and Loss:
 		• Accuracy steadily improved during training (~73%), while loss decreased.
 
-  		![Training Accuracy](Images/traning_accuracy.png)
+  		![Training Accuracy](Images/training_accuracy.png) 
     
 	2.	Training Loss:
 		• The training loss steadily decreased over time, indicating that the model was learning effectively. However, there were 		diminishing improvements after approximately 60 epochs, which suggests that the model had converged.
-  		![Training Loss](Images/training_loss.png)
 
+    
  ## Recommendation
 
 Although the neural network performed reasonably well, a tree-based model such as XGBoost or Random Forest could be more effective for this type of structured, tabular data. These models are better at handling class imbalance and may improve metrics like precision and recall for the minority class (IS_SUCCESSFUL = 1).
