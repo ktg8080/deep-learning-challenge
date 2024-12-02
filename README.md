@@ -35,7 +35,7 @@ The goal of this project was to build and evaluate a deep learning model to pred
 	1.	Training Accuracy and Loss:
 		• Accuracy steadily improved during training (~73%), while loss decreased.
 
-  		[![Training Accuracy](https://github.com/ktg8080/deep-learning-challenge/blob/main/Images/training_accuracy.png?raw=true)
+  		![Training Accuracy](https://github.com/ktg8080/deep-learning-challenge/blob/main/Images/training_accuracy.png?raw=true)
     
 	2.	Training Loss:
 		• The training loss steadily decreased over time, indicating that the model was learning effectively. However, there were 		diminishing improvements after approximately 60 epochs, which suggests that the model had converged.
